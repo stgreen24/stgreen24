@@ -8,19 +8,19 @@
 
 ## 📊 GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TutorIjy&show_icons=true&theme=dark&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stgreen24&show_icons=true&theme=dark&count_private=true)
 
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TutorIjy&theme=dark&hide_border=false)
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Stgreen24&theme=dark&hide_border=false)
 
 
 ## 📊 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TutorIjy&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stgreen24&layout=compact&theme=dark)
 
 ## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TutorIjy&theme=darkhub&margin-w=15&margin-h=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Stgreen24&theme=darkhub&margin-w=15&margin-h=15)
 
 ### 🚀 Top Contributed Repositories
-![Top Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=TutorIjy&layout=compact&theme=dark)
+![Top Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=Stgreen24&layout=compact&theme=dark)
 
 ![](https://komarev.com/ghpvc/?username=stgreen24&color=blue)
 
