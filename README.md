@@ -26,7 +26,7 @@ I thrive on the **limitless opportunities** that cloud technology brings. Whethe
 
 •	- **Monitoring & Security**: Ensuring systems are secure, resilient, and observable through effective monitoring tools.
 
-
+---
 
 💡 My Philosophy
 I believe in **continuous learning** and staying up to date with emerging trends in cloud and DevOps. 
@@ -40,6 +40,8 @@ My goal is to bridge the gap between development and operations, fostering colla
 •	- **Efficiency**: Automating repetitive tasks to save time and improve performance.
 
 •	- **Scalability**: Building systems that grow seamlessly with organizational needs.
+
+---
 
 When I’m not optimizing cloud workflows, you can find me exploring new tools, contributing to the tech community, and working on exciting side projects to sharpen my skills.
 **Let’s connect and build something amazing in the cloud!** 🚀
