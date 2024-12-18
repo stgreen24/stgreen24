@@ -51,7 +51,7 @@ When I’m not optimizing cloud workflows, you can find me exploring new tools, 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-aniemena-699b39313/)
-
+[![twitter](https://img.shields.io/badge/twitter-%230077B5.svg?style=flat&logo=twitter&logoColor=white)](https://x.com/stgreen24)
 
 ## 📊 GitHub Stats:
 
