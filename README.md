@@ -6,7 +6,7 @@
 
 🌟 **ABOUT ME**
 
-Hi, I'm Stephen Aniemena, a seasoned Cloud/DevOps Engineer with expertise in cloud computing, automation and infrastructure management. With the hands-on experience i have gotten, I craft scalable, secure and efficient cloud solutions that drive business growth. Leveraging cutting-edge tech, I automate processes, streamline deployments and optimize performance.
+Hi, I'm Stephen Aniemena, a seasoned Cloud/DevOps Engineer with expertise in cloud computing, automation and infrastructure management. With the hands-on experience I have gotten, I craft scalable, secure and efficient cloud solutions that drive business growth. Leveraging cutting-edge tech, I automate processes, streamline deployments and optimize performance.
 
 ---
 
