@@ -65,13 +65,14 @@ When I’m not optimizing cloud workflows, you can find me exploring new tools, 
 ## 🏆 GitHub Trophies:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Stgreen24&theme=darkhub&margin-w=15&margin-h=15)
 
-### 🚀 Top Contributed Repositories
-![Top Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=Stgreen24&layout=compact&theme=dark)
+----
+
+### 🔝 Top Contributed Repositories
+![](https://github-contributor-stats.vercel.app/api?username=Stgreen24&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
 
 ![](https://komarev.com/ghpvc/?username=stgreen24&color=blue)
-
-
-----
 
 
 
