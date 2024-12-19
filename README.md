@@ -74,6 +74,8 @@ When I’m not optimizing cloud workflows, you can find me exploring new tools, 
 
 ![](https://komarev.com/ghpvc/?username=stgreen24&color=blue)
 
+## 🔥 GitHub Streak:
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Stgreen24-Git&theme=dark&hide_border=false)
 
 
 ## 💻 Tech Stack
